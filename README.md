@@ -1,4 +1,4 @@
-<h1>Depop Fee Calculator Tool (WordPress Plugin)</h1>
+<h1>Vinted Fee Calculator Tool (WordPress Plugin)</h1>
 <p>This is a shortcode plugin created for WordPress websites using <b>PHP</b>, <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> and this tool is made to calcualte your estimated profits on <b>Vinted Platform</b> in 3 major currencies, i-e, USD, CAD, and EUR, this tool fetches the typography and colors from the theme dynamically to match the design with the website it is on and it is mobile responsive too.</p>
 <h3>Instructions:</h3>
 <ul>
